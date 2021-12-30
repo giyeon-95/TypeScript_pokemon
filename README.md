@@ -1,3 +1,8 @@
+# TypeScript Tutorial
+
+typescript, react, redux 를 이용한 api 호출 tutorial 입니다.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
