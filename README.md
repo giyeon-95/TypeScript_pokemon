@@ -2,6 +2,17 @@
 
 typescript, react, redux 를 이용한 api 호출 tutorial 입니다.
 
+PokemonActionTypes 
+->
+PokemonReducer
+->
+PokemonAction
+->
+reducers/index.ts
+->
+Store.ts
+->
+index.tsx
 
 # Getting Started with Create React App
 

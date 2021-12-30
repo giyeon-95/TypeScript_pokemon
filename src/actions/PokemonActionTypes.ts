@@ -22,7 +22,6 @@ export type PokemonSprites = {
 };
 
 // dispatch는 interface
-
 // action에 따른 interface 정의
 export interface pokemonFailDispatch {
   type: typeof POKEMON_FAIL;
